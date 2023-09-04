@@ -3,7 +3,7 @@
 
 This is a simple hotel search app that allows users to search for hotels in a given country.
 # Hosted Link:
-
+https://ronaksharma57.github.io/Hotels-js/
 ## Getting Started
 
 To get started, clone the repository and install the dependencies.
